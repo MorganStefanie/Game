@@ -1,0 +1,18 @@
+using namespace std
+
+int main(){
+
+}
+ 
+    while (true) {
+        cout << "\nEnter the difficulty level: \n";
+        cout << "1 for easy!\t";
+        cout << "2 for medium!\t";
+        cout << "3 for difficult!\t";
+        cout << "0 for ending the game!\n" << endl;
+ 
+        // generating the secret number
+        srand(time(0));
+        int secretNumber = 1 + (rand() % 100);
+        int playerChoice;
+    }
