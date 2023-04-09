@@ -1,0 +1,43 @@
+using namespace std; 
+$ g++ -o guess.bin guess.cpp
+class Airline (); {  
+    int main(){ 
+        Char name[100];
+
+Public: void set_A();
+
+Count <<"enter name">>;
+
+Cin >>"name">>;
+
+Fflush(control);
+
+Cin.get(name,100);
+
+}
+
+    while (true) {
+        cout << "Enter Registration";
+        srand(time(0));
+        int Registration = 1 + (rand() % 100);
+        int Airline Registration;
+
+};
+
+class Registration Private Airline();
+
+{ int main() {
+
+Char name[25]
+
+Public: void set_R()
+
+obj1 Airline;
+
+Obj1.func(50);
+
+Return 0;
+
+} 
+
+}
